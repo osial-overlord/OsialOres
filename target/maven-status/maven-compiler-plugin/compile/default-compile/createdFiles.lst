@@ -1,0 +1,17 @@
+org\osial\osialores\events\OsialOreGiveEvent.class
+org\osial\osialores\commands\real\GiveOreCommand.class
+org\osial\osialores\listeners\OsialOreListener.class
+org\osial\osialores\ores\OsialOre.class
+org\osial\osialores\commands\OsialCommand.class
+org\osial\osialores\api\OsialOresAPI.class
+org\osial\osialores\utils\NBTEditor$Type.class
+org\osial\osialores\events\OsialOrePlaceEvent.class
+org\osial\osialores\utils\NBTEditor.class
+org\osial\osialores\utils\NBTEditor$NBTCompound.class
+org\osial\osialores\utils\NBTEditor$MinecraftVersion.class
+org\osial\osialores\OsialOres.class
+org\osial\osialores\ores\OsialOreHandler.class
+org\osial\osialores\commands\SubCommand.class
+org\osial\osialores\utils\OsialOresUtil.class
+org\osial\osialores\utils\ColorUtils.class
+org\osial\osialores\events\OsialOreBreakEvent.class

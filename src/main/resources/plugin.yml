@@ -1,0 +1,10 @@
+name: OsialOres
+version: '${project.version}'
+main: org.osial.osialores.OsialOres
+api-version: 1.13
+authors: [ Osial ]
+description: An ore regeneration plugin, makes specific ores regenerate when broken.
+website: https://github.com/osial-overlord
+commands:
+  osialores:
+    description: The main command for the Osial Ores plugin.
